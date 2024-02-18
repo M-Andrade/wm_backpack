@@ -1,5 +1,9 @@
+<1.4>
+- Slots with VIP system Updated.
+- Compatible with the RSG framework.
+- Removed support for VIPs set by group/character due to bugs. Functional only with WM_VipSystem.
 <1.3>
-- Readme made easier and folder created for better installation process
+- Readme made easier and folder created for better installation process.
 <1.2>
 - VIP system created.
 - You can use either WM_VipSystem (recommended). As for the set per group in the character.
